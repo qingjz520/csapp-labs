@@ -354,3 +354,5 @@ unsigned floatPower2(int x) {
   }
   return EXP << 23;
 }
+
+// https://gemini.google.com/app/c29bd1bf19b3c48f?hl=zh
